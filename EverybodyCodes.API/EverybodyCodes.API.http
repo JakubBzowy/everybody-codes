@@ -1,0 +1,6 @@
+@EverybodyCodes.API_HostAddress = http://localhost:5011
+
+GET {{EverybodyCodes.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
